@@ -1,7 +1,7 @@
 - Hi, I’m @Klobbb
 - I’m interested in learning programming with Java and Python
 - I’m currently learning Java
-- Discord: Klob#1878
+- Discord: klob#1878
 
 <!---
 Klobbb/Klobbb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
