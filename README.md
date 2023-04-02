@@ -1,4 +1,4 @@
-- Hi, I’m @Klobbb
+- Hi, I’m Kaleb
 - I’m interested in learning programming with Java and Python
 - I’m currently learning Java
 - Discord: klob#1878
